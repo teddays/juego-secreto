@@ -1,1 +1,1 @@
-<p>programa de descrube el numero secreto</p>
+<p>programa realizado para descrubir el numero secreto</p>
